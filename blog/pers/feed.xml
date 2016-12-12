@@ -1,0 +1,26 @@
+---
+layout: page
+---
+<?xml version="1.0" encoding="utf-8"?>
+
+ <title>Personal Blog</title>
+ <link href="http://ranjan.github.io/blog/pers/feed.xml" rel="self"/>
+ <link href="http://ranjanan.github.io/blog/pers/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://ranjanan.github.io/blog/pers/</id>
+ <author>
+   <name>Ranjan Anantharaman</name>
+   <email>ranjan.anantharaman@gmail.com</email>
+ </author>
+
+ {% for post in site.categories.blog %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://ranjanan.github.io/{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://ranjan.github.io/blog/pers/{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
