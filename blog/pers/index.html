@@ -1,12 +1,13 @@
 ---
 layout: default
+permalink: /blog/pers/
 ---
 
 <div class="blog">
-    <h1 class="page-heading">Posts</h1>
+    <h1 class="page-heading">My Personal Blog</h1>
 
   <ul class="post-list">
-    {% for post in site.tech %}
+    {% for post in site.categories.personal %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
