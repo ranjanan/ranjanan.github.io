@@ -1,5 +1,9 @@
 <header class="site-header">
 
+{% assign menu_items = "
+  Tech Blog:/blog/tech/|
+  Personal Blog:/blog/pers/" | split: "|" %}
+
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
@@ -14,11 +18,17 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
+        {% for item in menu_items %}
+          {% assign item_parts = item | split: ":" %}
+          <a href="{{item_parts[1]}}" class="page-link">
+            <span>{{item_parts[0]}}</span>
+          </a>
+        {% endfor %}
+        <!--{% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
-        {% endfor %}
+          {% endfor %}-->
       </div>
     </nav>
 
