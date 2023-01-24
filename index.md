@@ -15,13 +15,15 @@
 I am a sales engineer at [JuliaHub Inc](https://juliahub.com) where I act as a bridge between customers and the product teams. I also ideate forward looking product features for JuliaSim, a modeling and simulation product.
 
 I recently graduated with a PhD in Mathematics & Computational Science from the [JuliaLab](https://julia.mit.edu) at the MIT Computer Science & Artificial Lab (CSAIL), where I studied surrogate modeling to
-accelerate the simulation of large dynamical systems. 
-
-I also maintain [Circuitscape](https://circuitscape.org), a simulation tool that helps 
-conservation scientists propose policy to save endangered species. 
-
-Prior to MIT, I was an applications engineer and data scientist at Julia Computing. I 
+accelerate the simulation of large dynamical systems. Prior to MIT, I was an applications engineer and data scientist at Julia Computing. I 
 graduated from BITS-Hyderabad in 2015 and PSBB-KK Nagar in Chennai in 2011.  
+
+I am a member of numerous open source projects: 
+
+* I am part of the [Julia](https://julialang.org) community since 2015, and chaired [JuliaCon](https//juliacon.org) since 2020. I am also an editor at the open access journal [*JuliaCon Proceedings*](https://proceedings.juliacon.org).
+* I am a part of the [Scientific Machine Learning](https://sciml.ai) community since 2020 and have organized [SciMLCon 2022](https://scimlcon.org).
+* I also maintain the open source tool [Circuitscape](https://circuitscape.org), a simulation tool that helps 
+conservation scientists propose policy to save endangered species. 
 
 ### Publications
 
