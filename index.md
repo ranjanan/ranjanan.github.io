@@ -12,10 +12,10 @@
   </div>
 </div>
 ~~~
-I am a PhD Candidate at the JuliaLab at MIT where I study surrogate modeling to
-accelerate the simulation of large dynamical systems. I am affliated with MIT Mathemtics, MIT 
-Computational Science and Engineering (CCSE), and the Computer Science and Artificial
-Intelligence Lab (CSAIL).
+I am a sales engineer at [JuliaHub Inc](https://juliahub.com) where I act as a bridge between customers and the product teams. I also ideate forward looking product features for JuliaSim, a modeling and simulation product.
+
+I recently graduated with a PhD in Mathematics & Computational Science from the [JuliaLab](https://julia.mit.edu) at the MIT Computer Science & Artificial Lab (CSAIL), where I studied surrogate modeling to
+accelerate the simulation of large dynamical systems. 
 
 I also maintain [Circuitscape](https://circuitscape.org), a simulation tool that helps 
 conservation scientists propose policy to save endangered species. 
