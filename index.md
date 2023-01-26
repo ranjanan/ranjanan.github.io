@@ -22,8 +22,7 @@ I am a member of numerous open source projects:
 
 * I am part of the [Julia](https://julialang.org) community since 2015, and chaired [JuliaCon](https//juliacon.org) since 2020. I am also an editor at the open access journal [*JuliaCon Proceedings*](https://proceedings.juliacon.org).
 * I am a part of the [Scientific Machine Learning](https://sciml.ai) community since 2020 and have organized [SciMLCon 2022](https://scimlcon.org).
-* I also maintain the open source tool [Circuitscape](https://circuitscape.org), a simulation tool that helps 
-conservation scientists propose policy to save endangered species. 
+* I also maintain the open source tool [Circuitscape](https://circuitscape.org), a simulation tool that helps conservation scientists propose policy to save endangered species. 
 
 ### Publications
 
