@@ -8,7 +8,7 @@
 ~~~
 <div class="row">
   <div class="container">
-    <img class="right" src="/assets/prof_pic.png" style="width:200px;height=400px;">
+    <img class="right" src="/assets/ranjan_formal.png" style="width:200px;height=400px;">
   </div>
 </div>
 ~~~
